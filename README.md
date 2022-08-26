@@ -1,0 +1,1 @@
+Tern_Data_Creator.ipynb is the main file of code that generates a table of site information for all cities in California with population higher than 200,000. Makes sure to install and import all the libraries before running the functions! 
